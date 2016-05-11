@@ -7,4 +7,4 @@ You can find and install the docker toolbox from https://www.docker.com/products
 
 We'll go about implementing cool stuff in small steps. Here's what we got so far:
 
-1.Setting up a docker machine with hadoop.
+1. Setting up a docker machine with hadoop.
